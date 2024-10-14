@@ -1,5 +1,6 @@
 Description:
 
+
 This project implements a Time Abstract Data Type (ADT) in C++. It allows users to manage and manipulate time values easily. The class supports operations like setting and retrieving time, incrementing hours, minutes, or seconds, and displaying the time in both 12-hour (AM/PM) and 24-hour formats. The implementation is useful for applications requiring precise time management and formatting.
 
 
